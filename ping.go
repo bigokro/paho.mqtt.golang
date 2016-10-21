@@ -17,7 +17,7 @@ package mqtt
 import (
 	"errors"
 
-	"github.com/eclipse/paho.mqtt.golang/packets"
+	"github.com/bigokro/paho.mqtt.golang/packets"
 )
 
 func keepalive(c *client) {

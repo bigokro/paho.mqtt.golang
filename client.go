@@ -22,7 +22,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/eclipse/paho.mqtt.golang/packets"
+	"github.com/bigokro/paho.mqtt.golang/packets"
 )
 
 type connStatus uint
